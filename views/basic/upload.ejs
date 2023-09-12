@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Upload</title>
+</head>
+<body>
+    <h1>File Upload</h1>
+    <form action="upload" method="post" enctype="multipart/form-data">
+        <input type="text" class="form-control" placeholder="Enter your ID" id="ID" name='usernameoremail'>
+        <input type="file" name="file" accept=".jpg, .jpeg, .png, .gif, .pdf, .ppt, .pptx, .txt, .doc, .docx, .csv">
+        <button type="submit" id="btn" value="Submit">Upload File</button>
+    </form>
+</body>
+</html>

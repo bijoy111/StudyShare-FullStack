@@ -1,5 +1,5 @@
 Youtube Link: https://youtu.be/25jL7FPmXTI
-# StudyShare_Frontend
+# StudyShare
 It is an implementation of one CSE326(ISD) project module.
 The frontend is implemented using HTML, CSS, and Bootstrap. And the backend is implemented in Node.js. Supabase with PostgreSQL is used for database management.
 Available page:
